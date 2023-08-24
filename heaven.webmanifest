@@ -1,0 +1,21 @@
+{
+    "name": "CalcBTI PWA",
+    "short_name": "CalcBTI",
+    "description": "Aplicación web progresiva que actua como Calcudora Básica.",
+    "icons": [
+     { 
+            "src": "/icon/Calculator.48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+     },
+     {
+            "src": "/icon/Calculator.256.png",
+            "sizes": "512x512",
+            "type": "image/png"
+     }
+    ], 
+    "start_url": "/segundocurso/calc/index.html",
+    "display": "fullscreen",
+    "theme_color": "#B12A34", 
+    "background_color":"#B12A34"
+}
